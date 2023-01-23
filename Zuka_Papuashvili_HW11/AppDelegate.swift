@@ -7,6 +7,10 @@
 
 import UIKit
 
+/*
+ Time Spent: approximately 10 Hours.
+ */
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
